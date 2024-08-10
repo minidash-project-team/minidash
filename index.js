@@ -1,4 +1,6 @@
-export { capitalize }from './src/capitalize'
-export { checkedArray }from './src/checkedArr'
-export { findEvenNums }from './src/findEvenNum'
-export { findOddNum }from './src/findOddNumbers'
+export { capitalize }from './src/capitalize.js'
+export { checkedArray }from './src/checkedArr.js'
+export { findEvenNums }from './src/findEvenNum.js'
+export { findOddNum }from './src/findOddNumbers.js'
+
+
